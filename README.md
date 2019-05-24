@@ -1,4 +1,4 @@
-# Project for Biometría, UPV
+# Project for BiometrÃ­a, UPV
 
 In this project I've been working face recognition using eigenfaces and fisherfaces with/without light normalization. 
 
@@ -11,4 +11,4 @@ In this project I've been working face recognition using eigenfaces and fisherfa
 - main.py contains code to get plots in report. 
 
 
-All the functions are run from the main. They are listed with a comment of what they do. Data is not added to git, since data is images that requires a lot of space. To run code, data from ORL database must be downloaded and added to folder with structure /Images/s<#individual>/<#image>, where #individual = {1, ..., 40} and #image = {1, ..., 10} for ORL database, and /Images/d<#individual>/<#image>, where #individual = {1, ..., 10} and #image = {1, ..., 10} for ORL database. Ex: Images/s21/7..
+All the functions are run from the main. They are listed with a comment of what they do. Data is not added to git, since data is images that requires a lot of space. To run code, data from ORL/Yale database must be downloaded and added to folder with structure /Images/s<#individual>/<#image>, where #individual = {1, ..., 40} and #image = {1, ..., 10} for ORL database, and /Images/d<#individual>/<#image>, where #individual = {1, ..., 10} and #image = {1, ..., 10} for Yale database. Ex: Images/s21/7..
