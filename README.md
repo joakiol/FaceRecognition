@@ -1,6 +1,6 @@
 # Project for Biometría, UPV
 
-In this project I've been working face recognition using eigenfaces and fisherfaces with/without light normalization. 
+In this project I've been working with face recognition using eigenfaces and fisherfaces with/without light normalization. 
 
 - Report_Biometria_Olsen.pdf contains project report. 
 
